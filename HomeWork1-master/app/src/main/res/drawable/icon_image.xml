@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/shape_circle">
+        <shape android:shape="oval">
+            <solid android:color="#CDD0D1"/>
+            <padding
+                android:bottom="8dp"
+                android:top="8dp"
+                android:left="8dp"
+                android:right="8dp"
+                />
+
+
+        </shape>
+
+
+    </item>
+
+    <item android:id="@+id/shape_photo" android:drawable="@drawable/baseline_insert_photo_24"/>
+
+
+</layer-list>
